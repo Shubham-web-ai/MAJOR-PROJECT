@@ -4,7 +4,7 @@ A full-stack Airbnb-inspired web application where users can explore, create, ed
 
 ## 🌐 Live Demo
 
-**Live Website:** https://major-project-2-1rtb.onrender.com
+**Live Website:** https://major-project-2-1rtb.onrender.com/listings
 
 ## 📌 Features
 
